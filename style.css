@@ -1,0 +1,62 @@
+.my-banar-button{
+    background-color: white;
+    color: #3F87F5;
+    font-weight: 700;
+}
+.my-album-button{
+    background-color: #3F87F5;
+    color: #FFFFFF;
+    width: 700;
+    font-size: 16px;
+    padding: 8px 25px;
+}
+.my-section-gap{
+    margin-top: 100px;
+}
+.my-checkbox{
+    color: #5243c281;
+}
+.my-package-button{
+    background-color: #f496d234;
+    color: #3F87F5;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.card-bodys>h2,h4{
+    color: #231D4F;
+    font-weight: 700;
+}
+.spacial-button{
+    background-color: #FFFFFF;
+}
+.spacial{
+    background-color: #3F87F5;
+    border-radius: 20px;
+    height: 430px;
+}
+.footer{
+    height: 280px;
+    
+}
+footer{
+    background-color: #0B0D17;
+}
+.my-icon{
+    width: 18px;
+    height: 552px;
+}
+.my-footer-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    border-radius: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+.my-last{
+    width: 160px;
+}
+
